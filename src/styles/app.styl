@@ -1,0 +1,63 @@
+@require 'variables.styl'
+@require 'mixins.styl'
+@require 'utilities.styl'
+// @require 'bootstrap.styl'
+
+body
+  background-color: #aaa
+
+a
+  text-decoration: none
+  &:hover
+    text-decoration: underline
+
+.button,.button:visited
+  background:#5a5
+  color:#fff
+  display:inline-block
+  font:normal bold 16px Helvetica
+  margin:0 10px 10px
+  padding:10px 30px
+  text-decoration:none
+
+#container
+  background-color: #888
+
+#content
+  background-color: #666
+  padding: 20px
+
+.sample
+  background:#f5f5f5
+  padding:30px 0 10px
+.more
+  background:#ddd
+  padding:30px 0
+.output a,.more a
+  display:block
+  margin:0 0 10px
+.output a:after,.more a:after
+  content:" \bb"
+
+
+.example
+  background: #ffe
+  border: 1px solid #ddd
+  display: block
+  font: 'Courier New'
+  margin-bottom: 20px
+  padding: 5px 10px
+
+.example span
+  color: #383
+  font-weight: bold
+
+.example small
+  color: #888
+  font-size: 1em
+
+.velocity
+  li:hover
+    color: red
+    cursor: pointer
+

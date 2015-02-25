@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Intro",
+    "author": "",
+    "source": "",
+    "link": "",
+    "note": "",
+    "url": "/"
+  },
+  {
+    "title": "Front Page Example",
+    "author": "",
+    "source": "",
+    "link": "",
+    "note": "",
+    "url": "/example"
+  },
+  {
+    "title": "Animation",
+    "author": "",
+    "source": "",
+    "link": "",
+    "note": "velocity.js",
+    "url": "/animation"
+  },
+  {
+    "title": "Component Organization",
+    "author": "",
+    "source": "",
+    "link": "",
+    "note": "search filter",
+    "url": "/components"
+  },
+  {
+    "title": "Bi-directional Data Binding",
+    "author": "",
+    "source": "",
+    "link": "",
+    "note": "don't break the chain",
+    "url": "/binding"
+  },
+  {
+    "title": "Modal",
+    "author": "Leo Horie",
+    "source": "Human Design",
+    "link": "https://github.com/HumanDesign/mithril-modal",
+    "note": "",
+    "url": "/modal"
+  },
+  {
+    "title": "About",
+    "author": "",
+    "source": "",
+    "link": "",
+    "note": "the making of this app",
+    "url": "/about"
+  },
+  {
+    "title": "Credits",
+    "author": "",
+    "source": "",
+    "link": "",
+    "note": "the wizards behind mithril",
+    "url": "/credits"
+  }
+]
